@@ -1,0 +1,1 @@
+rootProject.name = "Praktikum2-NewsFeedSimulator"

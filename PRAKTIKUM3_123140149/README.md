@@ -17,4 +17,4 @@ Aplikasi profil interaktif berbasis Android yang dibangun menggunakan **Jetpack 
 
 ##  Tangkapan Layar (Screenshots)
 <img src="screenshot_1.jpeg" width="250"/>
-<img src="screenshot_2.jpeg.png" width="250"/>
+<img src="screenshot_2.jpeg" width="250"/>
